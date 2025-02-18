@@ -12,7 +12,7 @@ public class Aula1 {
 
     public static void main(String[] args) {
        
-          Aluno a = new Aluno("Gui", Curso.ADS);
+          Aluno a = new Aluno("Guilherme", Curso.ADS);
 
           a.MostraInfos();
     }
