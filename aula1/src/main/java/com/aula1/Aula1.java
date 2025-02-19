@@ -14,6 +14,7 @@ public class Aula1 {
        
           Aluno a = new Aluno("Guilherme", Curso.ADS);
           Aluno b = new Aluno("Giovanna", Curso.ADS);
+          Aluno c = new Aluno("Gonzaga", Curso.ADS);
           a.MostraInfos();
     }
 }
